@@ -9,3 +9,21 @@ node_modules
 yarn.lock
 package.json
 compile_commands.json
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
